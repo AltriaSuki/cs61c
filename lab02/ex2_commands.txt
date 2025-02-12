@@ -3,3 +3,16 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+start
+next
+until check_password
+step
+until check_lower
+step
+print password
+finish
+until check_length
+step
+finish
+print <return_value_variable>
+print length
